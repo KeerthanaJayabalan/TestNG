@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-20T21:41:14 IST" name="Default suite" finished-at="2022-10-20T21:41:14 IST" duration-ms="104">
+    <groups>
+    </groups>
+    <test started-at="2022-10-20T21:41:14 IST" name="Default test" finished-at="2022-10-20T21:41:14 IST" duration-ms="104">
+      <class name="SampleTestCase">
+        <test-method signature="firstTestCase()[pri:0, instance:SampleTestCase@26275bef]" started-at="2022-10-20T21:41:14 IST" name="firstTestCase" finished-at="2022-10-20T21:41:14 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestCase -->
+        <test-method signature="lastTestCase()[pri:0, instance:SampleTestCase@26275bef]" started-at="2022-10-20T21:41:14 IST" name="lastTestCase" finished-at="2022-10-20T21:41:14 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastTestCase -->
+        <test-method signature="secondTestCase()[pri:0, instance:SampleTestCase@26275bef]" started-at="2022-10-20T21:41:14 IST" name="secondTestCase" finished-at="2022-10-20T21:41:14 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTestCase -->
+        <test-method signature="thirdTestCase()[pri:0, instance:SampleTestCase@26275bef]" started-at="2022-10-20T21:41:14 IST" name="thirdTestCase" finished-at="2022-10-20T21:41:14 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTestCase -->
+      </class> <!-- SampleTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
